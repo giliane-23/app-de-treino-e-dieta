@@ -1,50 +1,124 @@
-# Welcome to your Expo app 👋
+# 📱 App de Treinos e Dieta
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicativo mobile desenvolvido com **React Native + Expo**, com foco em auxiliar usuários no gerenciamento de treinos e alimentação.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Funcionalidades
 
-   ```bash
-   npm install
-   ```
+* 👤 Tela do aluno (perfil)
+* 🥗 Planejamento de dieta
+* 🏋️‍♀️ Área de treinos
+* 📝 Cadastro de usuário
+* 📲 Navegação entre telas com Expo Router
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ Tecnologias utilizadas
 
-In the output, you'll find options to open the app in a
+* React Native
+* Expo
+* TypeScript
+* Expo Router
+* JavaScript (ES6+)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📂 Estrutura do projeto
 
-## Get a fresh project
+```
+app/
+ ├── index.tsx
+ ├── aluno.tsx
+ ├── cadastrar.tsx
+ ├── dieta.tsx
+ ├── instrutor.tsx
+ ├── login.tsx
+ ├── meus-treinos.tsx
 
-When you're ready, run:
-
-```bash
-npm run reset-project
+assets/
+components/
+hooks/
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## ▶️ Como rodar o projeto
 
-To learn more about developing your project with Expo, look at the following resources:
+1. Clone o repositório:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
 
-## Join the community
+2. Acesse a pasta:
 
-Join our community of developers creating universal apps.
+```
+cd seu-repositorio
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+3. Instale as dependências:
+
+```
+npm install
+```
+
+4. Inicie o projeto:
+
+```
+npx expo start
+```
+
+---
+
+## 📱 Como testar
+
+* Use o app **Expo Go** no celular
+* Ou rode no navegador com `w`
+* Ou emulador Android com `a`
+
+---
+
+## 🎯 Objetivo do projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar:
+
+* Desenvolvimento mobile
+* Organização de código
+* Navegação entre telas
+* Boas práticas com React Native
+
+---
+
+## 📌 Status do projeto
+
+🚧 Em desenvolvimento
+Novas funcionalidades estão sendo adicionadas continuamente.
+
+---
+
+## 💡 Melhorias futuras
+
+* Integração com API backend
+* Autenticação de usuário
+* Persistência de dados
+* Melhorias no design (UI/UX)
+
+---
+
+## 👩‍💻 Desenvolvido por
+
+**Giliane Rodrigues**
+Estudante de Tecnologia da Informação
+
+---
+
+## ⭐ Contribuição
+
+Sugestões e melhorias são bem-vindas!
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
