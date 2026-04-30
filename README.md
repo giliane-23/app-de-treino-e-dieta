@@ -1,6 +1,6 @@
 # 📱 App de Treinos e Dieta
 
-Aplicativo mobile sendo desenvolvido com **React Native + Expo**, com foco em auxiliar usuários no gerenciamento de treinos e alimentação.
+Aplicativo mobile em desenvolvimento com React Native + Expo para auxiliar usuários no gerenciamento de treinos e alimentação, proporcionando uma experiência prática e organizada no dia a dia.
 
 ---
 
