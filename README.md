@@ -1,5 +1,13 @@
 # 📱 App de Treinos e Dieta
 
+## 📸 Preview do App
+
+![preview](COLOQUE_AQUI_IMAGEM_DO_APP)
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![React Native](https://img.shields.io/badge/React_Native-mobile-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 Aplicativo mobile em desenvolvimento com React Native + Expo para auxiliar usuários no gerenciamento de treinos e alimentação, proporcionando uma experiência prática e organizada no dia a dia.
 
 ---
@@ -43,12 +51,20 @@ hooks/
 
 ---
 
+## 🧠 Boas práticas aplicadas
+
+- Organização por componentes
+- Separação de responsabilidades
+- Estrutura escalável de pastas
+  
+---
+
 ## ▶️ Como rodar o projeto
 
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/giliane-23/app-de-treino-e-dieta.git
 ```
 
 2. Acesse a pasta:
