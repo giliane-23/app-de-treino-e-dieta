@@ -1,11 +1,18 @@
 # 📱 App de Treinos e Dieta
 
 ## 📸 Preview do App
-[![Tela Inicial](COLOQUE_AQUI_IMAGEM_DO_APP)](https://github.com/giliane-23/app-de-treino-e-dieta/blob/main/preview.png?raw=true)
-[![Tela de Login](COLOQUE_AQUI_IMAGEM_DO_APP)](https://github.com/giliane-23/app-de-treino-e-dieta/blob/main/login.png?raw=true)
-[![Área do Aluno](COLOQUE_AQUI_IMAGEM_DO_APP)](https://github.com/giliane-23/app-de-treino-e-dieta/blob/main/%C3%81rea%20do%20aluno.png?raw=true)
-[![Tela de Treinos](COLOQUE_AQUI_IMAGEM_DO_APP)](https://github.com/giliane-23/app-de-treino-e-dieta/blob/main/treinos.png?raw=true)
 
+### 🏠 Tela Inicial
+![🏠 Tela Inicial](https://raw.githubusercontent.com/giliane-23/app-de-treino-e-dieta/main/preview.png)
+
+### 🔐 Tela de Login
+![🔐 Tela de Login](https://raw.githubusercontent.com/giliane-23/app-de-treino-e-dieta/main/login.png)
+
+### 👤 Área do Aluno
+![👤 Área do Aluno](https://raw.githubusercontent.com/giliane-23/app-de-treino-e-dieta/main/%C3%81rea%20do%20aluno.png)
+
+### 🏋️‍♀️ Tela de Treinos
+![🏋️‍♀️ Tela de Treinos](https://raw.githubusercontent.com/giliane-23/app-de-treino-e-dieta/main/treinos.png)
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![React Native](https://img.shields.io/badge/React_Native-mobile-blue)
