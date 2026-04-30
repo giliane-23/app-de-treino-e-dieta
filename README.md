@@ -1,8 +1,11 @@
 # 📱 App de Treinos e Dieta
 
 ## 📸 Preview do App
+[![Tela Inicial](COLOQUE_AQUI_IMAGEM_DO_APP)](https://github.com/giliane-23/app-de-treino-e-dieta/blob/main/preview.png?raw=true)
+[![Tela de Login](COLOQUE_AQUI_IMAGEM_DO_APP)](https://github.com/giliane-23/app-de-treino-e-dieta/blob/main/login.png?raw=true)
+[![Área do Aluno](COLOQUE_AQUI_IMAGEM_DO_APP)](https://github.com/giliane-23/app-de-treino-e-dieta/blob/main/%C3%81rea%20do%20aluno.png?raw=true)
+[![Tela de Treinos](COLOQUE_AQUI_IMAGEM_DO_APP)](https://github.com/giliane-23/app-de-treino-e-dieta/blob/main/treinos.png?raw=true)
 
-![preview](COLOQUE_AQUI_IMAGEM_DO_APP)
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![React Native](https://img.shields.io/badge/React_Native-mobile-blue)
